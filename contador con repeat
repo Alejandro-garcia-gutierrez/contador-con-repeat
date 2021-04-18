@@ -1,0 +1,14 @@
+CONTADOR CON REPEAT
+//Contador del 1 al 100//
+
+main()
+{
+    i = 0  //empezamos dando un valor//
+    x = 1;
+    REPEAT
+    {
+        printf (x);
+        x++;
+
+    }Until (x = 100)
+}
